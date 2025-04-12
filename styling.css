@@ -1,4 +1,4 @@
-body{background-color:BLACK;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-style: normal;}
+body{max-width:100%;font-size:1rem;background-color:BLACK;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-style: normal;}
 p{color:white}
 #heading{color:whitesmoke;text-align:center;border:solid;border-color:blue;border-width: 4px;}
 #instruc{color:white}
