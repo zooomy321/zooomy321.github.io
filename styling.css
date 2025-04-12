@@ -1,0 +1,15 @@
+body{background-color:BLACK;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-style: normal;}
+p{color:white}
+#heading{color:whitesmoke;text-align:center;border:solid;border-color:blue;border-width: 4px;}
+#instruc{color:white}
+#start{color:white;text-align:center;}
+#end{color:white;text-align:center;}
+#startbutton{background-color:blue;}
+#endbutton{background-color:rgb(255, 0, 0);}
+#footer{font-size: 10px;}
+#Q1instruc{color:whitesmoke;text-align:center;border:solid;border-color:blue;border-width: 4px;}
+#Q1{color:white;font-size: 10px;}
+#Q1Answer{color:black;font-family:Arial, Helvetica, sans-serif}
+#Q2{color:white;font-size: 10px;}
+#Q2Answer{color:black;font-family:Arial, Helvetica, sans-serif}
+
